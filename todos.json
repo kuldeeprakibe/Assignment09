@@ -1,0 +1,15 @@
+[
+    { 
+        "description" : "Study",
+        "tags"  : [ "Maths", "Chemistry" ]
+    },
+    { 
+        "description" : "Play",
+        "tags"  : [ "Football", "Cricket" ]
+    },
+    {
+        "description" : "Play PS4",
+        "tags"  : [ "Bloodborne", "Battlefield" ]
+    }
+
+]
